@@ -1,7 +1,7 @@
 
 # 🏬 StoreAPI
 
-**StoreAPI** is a RESTful API designed to manage store operations, including products, categories, users, and orders. Built with Node.js and Express, it facilitates CRUD operations and ensures efficient data management for e-commerce platforms.
+**StoreAPI** is a RESTful API designed to manage store operations and products. Built with Node.js and Express, it facilitates CRUD operations and ensures efficient data management for e-commerce platforms.
 
 ## 🛠️ Installation
 
